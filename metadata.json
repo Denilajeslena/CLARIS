@@ -1,0 +1,6 @@
+{
+  "name": "ForensicVision - Multimodal Deepfake & Digital Forensics",
+  "description": "Production-grade multimodal digital forensics platform detecting AI manipulations across Image, Video, Audio, and Audio-Visual streams using YOLO26, forensic CNNs, spectral analysis, and explainable evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
